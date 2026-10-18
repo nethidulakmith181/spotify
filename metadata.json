@@ -1,0 +1,6 @@
+{
+  "name": "Spotify Mobile - Web Player (Ad-Free & Rewind)",
+  "description": "Authentic Spotify mobile web app with real Spotify account connection, seamless rewind, zero ads, real-time lyrics, and background playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
